@@ -1,0 +1,14 @@
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\bin\Debug\project_ing.exe
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\bin\Debug\project_ing.pdb
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\bin\Debug\mysql.data.dll
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\project_ing.csprojResolveAssemblyReference.cache
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.FormInicio.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.Formlogin.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.MainForm.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\project_ing.csproj.GenerateResource.Cache
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\project_ing.exe
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\project_ing.pdb
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.FormVer_product.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.FormNuevoProducto.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.admi_produc_from.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\proyect_ing\proyect_ing\obj\Debug\proyect_ing.Editar_ProductoForm.resources
